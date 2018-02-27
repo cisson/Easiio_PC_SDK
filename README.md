@@ -1,2 +1,1 @@
-# easiio-pc-client
-cisson repository
+# Easiio_PC_SDK
